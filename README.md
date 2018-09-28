@@ -7,5 +7,7 @@
 - [overleaf](https://www.overleaf.com/): Online collaborative latex editor
 - [sharelatex](https://sharelatex.irisa.fr): Online collaborative latex editor
 
+### Reviewing pdf
 
+- [xodo](https://www.xodo.com/app/#/) Collaborative online pdf reviewing tool
 
