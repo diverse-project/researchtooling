@@ -6,6 +6,7 @@
 - [grammarly](https://www.grammarly.com/): Grammar Checker
 - [overleaf](https://www.overleaf.com/): Online collaborative latex editor
 - [sharelatex](https://sharelatex.irisa.fr): Online collaborative latex editor
+- [latex-advice](https://github.com/dspinellis/latex-advice): Advice for writing LaTeX documents
 
 ### Reviewing pdf
 
